@@ -2,5 +2,5 @@
 
 Hi People
 
-I am Ramya, I like Sky because its blue (I feel alive feeling it!).
+I am Ramya, I like blue.
 In the near future I want to be successful DevOps Engineer.
